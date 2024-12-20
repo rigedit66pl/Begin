@@ -1,0 +1,22 @@
+#include <iostream>
+#include<cmath>  
+
+using namespace std;
+
+int main() {
+   
+    double a,b,c,v,s;
+    cout <<"parallelpiped tomonini kiriting  ";
+    cin>>a;
+     cout <<"parallelpiped tomonini kiriting  ";//Begin 6
+    cin>>b;
+     cout <<"parallelpiped tomonini kiriting  ";
+    cin>>c;
+    v=a*b*c;
+    s=2*(a*b+b*c+a*c);
+    cout<<"v="<<v<<endl;
+    cout<<"s="<<s;
+    
+    
+    return 0;
+}
