@@ -1,0 +1,21 @@
+// Online c++ kod yozish
+#include <iostream>
+#include<cmath>  
+
+using namespace std;
+
+int main() {
+    // c++ kod yozing
+    int a,b,yuza,perimetr;
+    cout <<"togri tortburchakning tomonini kiriting=";
+    cin>>a;
+    cout <<"togri tortburchakning tomonini kiriting=";
+    cin>>b;
+    yuza=a*b;
+    perimetr=2*(a+b);
+    cout<<"yuza="<<yuza<<endl;
+    cout<<"perimetr="<<perimetr;
+    
+    
+    return 0;
+}
