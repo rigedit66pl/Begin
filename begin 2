@@ -1,0 +1,18 @@
+// SI uzbek
+#include <iostream>
+#include<cmath>  
+
+using namespace std;
+
+int main() {
+    // c++ kod yozing
+    int tomon,yuza;
+    cout <<"kvadrat tomonini kiriting=";
+    cin>>tomon;
+    yuza=tomon*tomon;
+    cout<<"yuza="<<yuza;
+    
+
+    
+    return 0;
+}
