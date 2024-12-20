@@ -1,0 +1,18 @@
+#include <iostream>
+#include<cmath>  
+
+using namespace std;
+
+int main() {
+   
+    double a,v,s;
+    cout <<"kubning yon tomonini kiriting";
+    cin>>a;
+    s=6*a*a;
+    v= pow (a,3);
+    cout<<"v="<<v<<endl;
+    cout<<"s="<<s;
+    
+    
+    return 0;
+}
