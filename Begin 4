@@ -1,0 +1,19 @@
+#include <iostream>
+#include<cmath>  
+
+using namespace std;
+
+int main() {
+   
+    double d,L,p;
+    cout <<"aylananing diametrini kiriting";
+    cin>>d;
+    cout <<"p soni =";
+    cin>>p;
+    L=p*d;
+    cout<<"L="<<L<<endl;
+    cout<<"p="<<p ;
+    
+    
+    return 0;
+}
