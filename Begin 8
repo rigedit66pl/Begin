@@ -1,0 +1,15 @@
+#include <iostream>
+#include<cmath>  
+
+using namespace std;
+
+int main() {
+   int a,b,orta_arifmetik;
+   cout<<"a sonni kiriting  ";// Begin 8
+   cin>>a;
+   cout<<"b sonni kiriting  ";
+   cin>>b;
+   orta_arifmetik=(a+b)/2;
+   cout<<"orta_arifmetik="<<orta_arifmetik<<endl;
+    return 0;
+}
